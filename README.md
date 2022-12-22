@@ -1,11 +1,11 @@
-# Cypress example on amazon
+# Cypress example test using amazon
 
 This is a simple project to demonstrate the use of cypress.io.
 It shows a test working on amazon, by performing a search and asserting against the expected results. 
 It is also integrated with cucumber to attain the benefits of BDD.
 
 ## prerequisites
-1. Clone the repository
+1. Clone the repository >> git clone https://github.com/simonbaire/cypress-amazon-test-example.git
 2. From root directory type npm install
 
 ## Running the test from cypress launchpad
